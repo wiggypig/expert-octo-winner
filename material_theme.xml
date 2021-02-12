@@ -1,7 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="accentColor" value="1aebff" />
-    <option name="selectedTheme" value="NATIVE" />
+    <option name="accentColor" value="74a0f1" />
+    <option name="selectedTheme" value="MOONLIGHT" />
     <option name="userId" value="1d3d6062:1776df4bf0e:-8000" />
     <option name="version" value="5.5.0" />
   </component>

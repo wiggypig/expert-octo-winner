@@ -15,9 +15,22 @@
     <option name="SECONDARY_FONT_FAMILY" value="Courier New" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="Groovy" value="true" />
+        <entry key="HTML" value="true" />
+        <entry key="JAVA" value="true" />
+        <entry key="JSON" value="true" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="kotlin" value="false" />
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.java; *.md; *.txt; *.rst; *.adoc" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
+    <option name="TOOLTIPS_DELAY_MS" value="300" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseMultilineComments" value="true" />

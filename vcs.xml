@@ -6,9 +6,13 @@
           <option name="url" value="https://github.com/Number279/Java-Oops-lesson" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jadedragon21/ShreveportSmartCityAppCapstoneProject.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\TTS\Projects\week10" />
+    <option name="cloneParentDir" value="C:\TTS\Experimental" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
